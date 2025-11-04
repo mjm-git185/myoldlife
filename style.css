@@ -1,0 +1,28 @@
+body {
+  width: vw1;
+  height: vh1;
+  background-color: lightblue;
+}
+
+.info {
+  font-family: Georgia;
+  text-align: center;
+  color: black;
+}
+
+ul {
+  font-size: 20px;
+  margin-left: 45%;
+}
+.chefbeard {
+  display: inline-block;
+  margin: 0 2% 0 40%;
+}
+.chefsad {
+  display: inline-block;
+  margin: 0 40% 0 2%;
+}
+.cheficon {
+  display: block;
+  margin: auto;
+}
